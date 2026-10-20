@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper it implements."
+title: "STOOD-X: reference implementation"
+type: software
+license: GPL-3.0-or-later
+repository-code: "https://github.com/isega24/STOOD-X"
+authors:
+  - family-names: Sevillano-García
+    given-names: Iván
+    orcid: "https://orcid.org/0000-0002-5029-9106"
+    affiliation: "DaSCI, University of Granada"
+  - family-names: Luengo
+    given-names: Julián
+    affiliation: "DaSCI, University of Granada"
+  - family-names: Herrera
+    given-names: Francisco
+    affiliation: "DaSCI, University of Granada"
+preferred-citation:
+  type: article
+  title: "STOOD-X: Explainable out-of-distribution detection via nonparametric statistical testing on large-scale datasets"
+  authors:
+    - family-names: Sevillano-García
+      given-names: Iván
+    - family-names: Luengo
+      given-names: Julián
+    - family-names: Herrera
+      given-names: Francisco
+  journal: "Pattern Recognition"
+  volume: 177
+  year: 2026
+  doi: "10.1016/j.patcog.2026.113254"
